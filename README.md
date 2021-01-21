@@ -13,3 +13,6 @@ Links related to my work online.
 * Article in Nature Biotechnology (https://www.nature.com/articles/nbt.3739)   
 * Core promoters across the genome, Nature Biotechnology  (https://www.nature.com/articles/nbt.3788)   
 * A functional assay for promoters, Nature Methods (https://www.nature.com/articles/nmeth.4160)   
+
+## Discovery of specificity of enhancer:core promoters that separates gene transcription programs (2014)
+* Article in Nature (https://www.nature.com/articles/nature13994)
