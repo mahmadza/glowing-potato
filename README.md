@@ -16,3 +16,5 @@ Article in Nature Biotechnology (https://www.nature.com/articles/nbt.3739)
 
 ## Discovery of specificity of enhancer:core promoters that separates gene transcription programs (2014)
 Article in Nature (https://www.nature.com/articles/nature13994)
+* Enhancers: Holding Out for the Right Promoter, Current Biology (https://doi.org/10.1016/j.cub.2015.01.039)
+* Enhancer Trafficking: Free Throws and Three-Pointers, Developmental Cell (https://doi.org/10.1016/j.devcel.2015.01.006)
