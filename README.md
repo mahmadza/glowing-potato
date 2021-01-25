@@ -1,5 +1,5 @@
 # glowing-potato
-Links related to my work online.
+Links my work and related mentions online.
 
 
 ## MyBrCa, the largest Asian genomics project (2021)
@@ -18,3 +18,6 @@ Article in Nature Biotechnology (https://www.nature.com/articles/nbt.3739)
 Article in Nature (https://www.nature.com/articles/nature13994)
 * Enhancers: Holding Out for the Right Promoter, Current Biology (https://doi.org/10.1016/j.cub.2015.01.039)
 * Enhancer Trafficking: Free Throws and Three-Pointers, Developmental Cell (https://doi.org/10.1016/j.devcel.2015.01.006)
+
+## PhD thesis (2017)
+PhD thesis (http://othes.univie.ac.at/46663/)
